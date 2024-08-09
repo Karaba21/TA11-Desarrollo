@@ -1,0 +1,20 @@
+.claseElem{
+    background-color: rgb(225, 140, 140);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.clase2{
+    font-size: 24px;
+}
+
+#elem2{
+    color: blue;
+    font-size: 36px;
+}
+
+#elem4{
+    background-color: rgb(142, 229, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
+
